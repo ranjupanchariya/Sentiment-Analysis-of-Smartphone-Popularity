@@ -1,0 +1,1 @@
+Its CDMA part is not satisfactory. I can not make call ,but incoming calls, sms and evdo internet are working properly.I can make calls only when the cdma signal strength is 1X only. There is no problem with its GSM function. I am fond of Honor Brand

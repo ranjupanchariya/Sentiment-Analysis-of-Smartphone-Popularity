@@ -1,0 +1,1 @@
+Reason:1. Very Slow2. Games don't run smoothly3. application ends suddenly4. app synchronization is not available5. app will have to active to get notification

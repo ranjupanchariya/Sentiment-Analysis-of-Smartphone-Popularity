@@ -1,0 +1,1 @@
+While this works great to boost a low signal area, I was hoping for it to boost signals where I would rarely get 1 bar, but like any digital signal, ON or OFF.  If you dont get a steady 1 bar signal in the are you want to use it, dont expect to get anything out of this booster.

@@ -1,0 +1,1 @@
+Every min error message of com.android.phone has stopped is coming and no outgoing calls happning. Had done factory reset number of times and every time phone restart is needed to make ca
